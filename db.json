@@ -83,6 +83,20 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Eminem & Snoop Dogg - From The D 2 The LBC [Official Music Video]",
+      "descricao": "5 mil visualizações",
+      "url": "https://youtube.com/embed/RjrA-slMoZ4",
+      "imagem": "https://www.billboard.com/wp-content/uploads/2022/06/Eminem-Snoop-Dogg-From-The-D-2-The-LBC-screenshot-2022-billboard-1548.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "Escolha de carreira: trajetória até a decisão por se tornar Dev | Giulia Silveira",
+      "descricao": "7 mil visualizações",
+      "url": "https://youtube.com/embed/6Gmlvh76pRw",
+      "imagem": "https://i.ytimg.com/vi/6Gmlvh76pRw/maxresdefault.jpg",
+      "id": 14
     }
   ]
 }
